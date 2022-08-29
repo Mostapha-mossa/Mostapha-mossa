@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Mostapha-mossa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Mostapha
+- 👀 I'm interested in game development
+- 🌱 I’m currently learning unity and C#
+- 💞️ I'm looking to collaborate on some projects
+- 📫 How to reach me mail me on "mossa5776@gmail.com"
 
 <!---
 Mostapha-mossa/Mostapha-mossa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
